@@ -3,7 +3,7 @@ Aikhanym Khuatbekkyzy
 
 Contacts
 ----------
-email: aikhanymkhuatbekkyzy@gmail.com
+email: aikhanymk2016@gmail.com
 
 number: +77755650902
 
