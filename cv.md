@@ -3,7 +3,7 @@ Aikhanym Khuatbekkyzy
 
 Contacts
 ----------
-email: aikhanymkhuatbekkyzy@gmail.com
+email: aikhanymk2016@gmail.com
 
 number: +77755650902
 
@@ -43,9 +43,7 @@ English, A2
 About Me:
 -----------
 Now my main purpose is to become a demanded specialist in IT, specifically - FrontEnd developer. And when will I get enough experience I will share my knowledge with juniors. I like teaching. 
-
 Before the last of our high school year, I was confident, that I can never write codes and IT is not for me. But, due to coronavirus, I grasped that IT has a bright future and coding isn't boring incomprehensible mathematical symbols, contrary coding is a creative craft. 
-
 Now I'm sure that everyone can learn to program if they really want it and see an exact target and of course self-confidence plays a big role.
 
 
